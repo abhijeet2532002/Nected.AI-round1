@@ -25,7 +25,7 @@ This project showcases a responsive webpage structure for a workshop invitation 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/nected-ai-workshop.git
+   git clone https://github.com/abhijeet2532002/nected-ai-workshop.git
    
 # Customization
 Feel free to customize the content, images, and styles based on your workshop details. Update the style.css file to match your branding and design preferences.
